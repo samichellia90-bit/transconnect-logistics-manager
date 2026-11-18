@@ -1,5 +1,7 @@
 # TransConnect: Logistics Management Console (C#)
 
+[![tests](https://github.com/samichellia90-bit/transconnect-logistics-manager/actions/workflows/tests.yml/badge.svg)](https://github.com/samichellia90-bit/transconnect-logistics-manager/actions/workflows/tests.yml)
+
 A console application that manages a fictional road-haulage company: customers, employees, orders, routes and driver reviews.
 Third-year object-oriented programming project (2024), built around two data structures written from scratch: a weighted graph with Dijkstra's shortest path, and a generic n-ary tree for the company organisation chart.
 
